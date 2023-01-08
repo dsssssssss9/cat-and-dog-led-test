@@ -1,0 +1,24 @@
+{
+    "name": "cat and dog led test",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "robotbit": "github:KittenBot/pxt-robotbit#v0.4.4"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.11.37",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ]
+}
