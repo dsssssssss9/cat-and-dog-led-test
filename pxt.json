@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "robotbit": "github:KittenBot/pxt-robotbit#v0.4.4"
+        "robotbit": "github:KittenBot/pxt-robotbit#v0.4.4",
+        "light": "*"
     },
     "files": [
         "main.blocks",
